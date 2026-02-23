@@ -1,0 +1,21 @@
+Pick Scoring (Stat-Driven),Unnamed: 1,Unnamed: 2
+,,
+Pitchers,,
+,,
+Stat,Pts,Notes
+Innings Pitched (IP),3,Points per inning pitched
+Strikeouts (K),1,Points per strikeout
+Win (W),5,Points per win
+Save (SV),5,Points per save
+Earned Runs (ER),2,Penalty per earned run (subtract)
+,,
+Batters,,
+,,
+Stat,Pts,Notes
+Hits (H),1,Points per hit
+Home Runs (HR),4,Points per home run
+Runs Batted In (RBI),1,Points per RBI
+Runs (R),1,Points per run scored
+Stolen Bases (SB),2,Points per stolen base
+Walks (BB),1,Points per walk
+Strikeouts (SO),0.5,Penalty per strikeout (subtract)

@@ -1,0 +1,6 @@
+Games / Matchups,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+,,,,,
+"Add one row per game (or series/season entry, depending on Settings → Play Scope).",,,,,
+,,,,,
+GameID,Date,AwayTeam,HomeTeam,ScopeGroupID (optional),Notes
+2026-04-01-NYY-BOS,2026-04-01,NYY,BOS,,Sample game id format: YYYY-MM-DD-AWAY-HOME

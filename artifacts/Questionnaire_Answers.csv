@@ -1,0 +1,5 @@
+Questionnaire Answers (one row per question answered),Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8
+,,,,,,,,
+Blue cells are inputs. Scoring happens in PointsAwarded.,,,,,,,,
+,,,,,,,,
+GameID,User,QID,Answer,ActualValue,Type,Tolerance,MaxPoints,PointsAwarded

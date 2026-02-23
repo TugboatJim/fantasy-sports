@@ -1,0 +1,14 @@
+Fantasy Baseball (Team-Based) — Spreadsheet Template
+""
+How to use
+"1) Go to Settings and choose mode(s): Questionnaire, Picks, or Both. Adjust scoring weights."
+2) Add games (or series/season rows) in Games.
+"3) For each game, enter your questionnaire answers in Questionnaire_Answers."
+4) Enter your 6-player picks in Picks.
+5) Paste actual results (or import) into Results.
+6) Leaderboard updates automatically.
+""
+Notes
+"• The template includes a placeholder 'Import' sheet for API pulls. If you later automate, feed Results/Players from your script."
+• Extra-innings rule: you can enable 'Questionnaire Only If Extra Innings' in Settings.
+• All blue-text cells are meant for user input.

@@ -1,0 +1,17 @@
+Settings,Unnamed: 1,Unnamed: 2
+,,
+Game Mode,,
+,,
+Setting,Value,Description
+Play Scope,Per Game,Choose: Per Game / Per Series / Per Season
+Scoring Mode,Both,Choose: Questionnaire / Picks / Both
+Questionnaire active only if Extra Innings?,No,"If Yes, questionnaire points count only when GameExtraInnings=TRUE in Results."
+# of Picks,6,How many players are selected per game for stat-driven picks.
+Max Questionnaire Points,20,Used for normalization (optional).
+,,
+Scoring Weights,,
+,,
+Component,Weight,Notes
+Questionnaire Points,1,Multiply questionnaire score by this weight.
+Picks Points,1,Multiply picks score by this weight.
+Bonus: Correct 'Most HR Team',2,Optional extra bonus points.

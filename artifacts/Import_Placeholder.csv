@@ -1,0 +1,10 @@
+Import / API Placeholder
+""
+"If you later automate (Python/Node), write game & player stats into Results and Player_Stats."
+""
+Suggested workflow:
+"• Use an MLB stats provider API to pull scheduled games, box scores, and player game logs."
+• Map each game to your GameID (same format used in Games/Results).
+• Write team totals and SP lines into Results.
+• Write per-player batting/pitching lines into Player_Stats.
+• Refresh the workbook to update scores.

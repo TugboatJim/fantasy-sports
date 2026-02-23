@@ -1,0 +1,5 @@
+Your 6-Player Picks (one row per pick),Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,,,,,,,
+Enter GameID + User + PlayerName. PlayerPoints pulls from Player_Stats via Key.,,,,,,,
+,,,,,,,
+GameID,User,PickSlot,PlayerName,Team,Role (P/B),Key,PlayerPoints

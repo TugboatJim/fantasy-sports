@@ -1,0 +1,5 @@
+Per-Player Stats (paste/import here for each game),Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17
+,,,,,,,,,,,,,,,,,
+Enter one row per player per game. Points are calculated from Pick_Scoring.,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Key,GameID,PlayerName,Team,Role (P/B),H,HR,RBI,R,SB,BB,SO,IP,ER,W,SV,K,Points

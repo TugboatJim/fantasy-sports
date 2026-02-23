@@ -1,0 +1,15 @@
+Question Bank (same questions each game),Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+,,,,,,
+Edit/extend this list. Each question maps to a column header in Results.,,,,,,
+,,,,,,
+QID,Question,ResultField (Results header),Type (numeric/text),Tolerance,MaxPoints,Notes / Options
+Q1,How many innings will the AWAY starting pitcher go?,Away_SP_IP,numeric,0.5,2,Closest within tolerance
+Q2,How many strikeouts for the AWAY starting pitcher?,Away_SP_SO,numeric,1,2,
+Q3,How many innings will the HOME starting pitcher go?,Home_SP_IP,numeric,0.5,2,
+Q4,How many strikeouts for the HOME starting pitcher?,Home_SP_SO,numeric,1,2,
+Q5,Total hits by AWAY team?,Away_H,numeric,1,2,
+Q6,Total hits by HOME team?,Home_H,numeric,1,2,
+Q7,Which PLAYER gets the most hits? (name),Top_Hitter_Player,text,0,3,Enter exact name as in Results
+Q8,How many hits does the top hitter have?,Top_Hitter_Hits,numeric,0,2,Exact number
+Q9,Which TEAM hits the most HR? (Away/Home/Team name),Most_HR_Team,text,0,2,
+Q10,Will the game go to extra innings? (Yes/No),GameExtraInnings,text,0,3,Yes/No

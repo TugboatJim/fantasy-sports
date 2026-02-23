@@ -1,0 +1,5 @@
+Per-Game Scores (auto-calculated),Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+,,,,,
+Add rows for each GameID+User you want to score (or build from a pivot later).,,,,,
+,,,,,
+GameID,User,ExtraInnings?,QuestionnairePts,PicksPts,TotalPts
