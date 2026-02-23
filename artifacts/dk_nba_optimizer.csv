@@ -1,0 +1,3 @@
+slate_date,player_id,name,team,opp,positions,salary,proj_points,ownership,stdev,minutes,status,game_id,notes
+YYYY-MM-DD,DK_OR_OTHER_STABLE_ID,Player Name,TEAM,OPP,PG/SG,0,0.0,,,,ACTIVE,TEAM@OPP,
+YYYY-MM-DD,DK_OR_OTHER_STABLE_ID,Player Name,TEAM,OPP,SF/PF,0,0.0,,,,ACTIVE,TEAM@OPP,
